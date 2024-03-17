@@ -1,0 +1,4 @@
+*.swp
+build
+unit_test
+data
